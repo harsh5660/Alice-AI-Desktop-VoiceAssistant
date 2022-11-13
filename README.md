@@ -18,6 +18,6 @@ Have you ever wondered how cool it would be to have your own A.I. assistant? Ima
 - It can open your **social media and open-source accounts**
 - Finally It **can interact with you** and you can also add more commands if you want😎
 
-## These are the following modules used in JARVIS📚 :
+## These are the following modules used in ALICE📚 :
 
 [SpeechRecognisation](https://pypi.org/project/SpeechRecognition/) | [PyAudio](https://pypi.org/project/PyAudio/) | [pyttsx3](https://pypi.org/project/pyttsx3/) | [pywhatkit](https://pypi.org/project/pywhatkit/) | [datetime](https://pypi.org/project/DateTime/) | [wikipedia](https://pypi.org/project/wikipedia/) | [pyjokes](https://pypi.org/project/pyjokes/) | [cv2](https://pypi.org/project/opencv-python/) | [cv2 tools](https://pypi.org/project/cv2-tools/) | [requests](https://pypi.org/project/requests/) | [smtplib](https://pypi.org/project/secure-smtplib/) | [psutil](https://pypi.org/project/psutil/) | [random](https://pypi.org/project/random2/) | [PyAutoGUI](https://pypi.org/project/PyAutoGUI/)  | [bs4](https://pypi.org/project/bs4/)  | [numpy](https://pypi.org/project/numpy/)
