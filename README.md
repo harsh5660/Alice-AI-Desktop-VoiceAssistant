@@ -21,3 +21,12 @@ Have you ever wondered how cool it would be to have your own A.I. assistant? Ima
 ## These are the following modules used in ALICE📚 :
 
 [SpeechRecognisation](https://pypi.org/project/SpeechRecognition/) | [PyAudio](https://pypi.org/project/PyAudio/) | [pyttsx3](https://pypi.org/project/pyttsx3/) | [pywhatkit](https://pypi.org/project/pywhatkit/) | [datetime](https://pypi.org/project/DateTime/) | [wikipedia](https://pypi.org/project/wikipedia/) | [pyjokes](https://pypi.org/project/pyjokes/) | [cv2](https://pypi.org/project/opencv-python/) | [cv2 tools](https://pypi.org/project/cv2-tools/) | [requests](https://pypi.org/project/requests/) | [smtplib](https://pypi.org/project/secure-smtplib/) | [psutil](https://pypi.org/project/psutil/) | [random](https://pypi.org/project/random2/) | [PyAutoGUI](https://pypi.org/project/PyAutoGUI/)  | [bs4](https://pypi.org/project/bs4/)  | [numpy](https://pypi.org/project/numpy/)
+![image](https://github.com/harsh5660/Alice-AI-Desktop-VoiceAssistant/assets/84218738/4528acbb-a6a8-4153-93d1-3c3567975bfb)
+![image](https://github.com/harsh5660/Alice-AI-Desktop-VoiceAssistant/assets/84218738/8ad3cb6c-61a2-471e-bcb8-f65bbb06e9fb)
+![image](https://github.com/harsh5660/Alice-AI-Desktop-VoiceAssistant/assets/84218738/72dbcd92-0605-4bd2-942d-c40117436f5b)
+![image](https://github.com/harsh5660/Alice-AI-Desktop-VoiceAssistant/assets/84218738/5b5db5da-f39d-4d5b-9e35-3eb36756907d)
+![image](https://github.com/harsh5660/Alice-AI-Desktop-VoiceAssistant/assets/84218738/252565d8-e8ce-4252-ad25-57a523a97544)
+
+
+
+
